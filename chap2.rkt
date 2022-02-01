@@ -1,6 +1,6 @@
 #lang racket
 
-(require "basic.rkt")
+(require "primitive.rkt")
 (require test-engine/racket-tests)
 (provide (all-defined-out))
 
